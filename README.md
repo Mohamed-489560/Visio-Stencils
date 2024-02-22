@@ -2,7 +2,7 @@
 __This Repository Contain Visio Stencils For Network Equipment (Racks, Servers, Firewalls, Routers, Switches, UPS, Access Points, etc..)__
 
 <code style="color : green">Through this MEGA link, all Visio Stencils will be uploaded and updated :</code> <br />
-<code style="color : green">mega.nz/folder/jbQ0lRCI#qN8YnkZjduUaud23O-26ug</code> <br />
+mega.nz/folder/jbQ0lRCI#qN8YnkZjduUaud23O-26ug
 
 
 
